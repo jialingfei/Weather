@@ -3,7 +3,9 @@
 
 ### 引入包文件
 ```
-composer require tiramisu/weather
+第一个版本
+
+composer require tiramisu/weather v1.0
 ```
 
 ### 申请天气接口appkey
