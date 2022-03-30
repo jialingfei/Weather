@@ -1,0 +1,22 @@
+{
+    "name": "tiramisu/weather",
+    "description": "天气获取接口",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tiramisu",
+            "email": "1339376695@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "7.4.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tiramisu\\": "./src"
+        }
+    }
+}
